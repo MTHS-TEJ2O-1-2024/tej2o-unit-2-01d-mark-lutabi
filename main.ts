@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2024
- * This program says Hello world
+ * This program says Hello Mark
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Mark!')
